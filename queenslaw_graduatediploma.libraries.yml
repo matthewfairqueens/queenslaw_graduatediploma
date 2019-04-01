@@ -8,3 +8,4 @@ global:
   js:
     jquery.misc.js: {}
     jquery.responsive.js: {}
+    jquery.parallax.min.js: {}
