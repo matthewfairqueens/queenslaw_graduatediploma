@@ -31,6 +31,14 @@ body.page-learn-more div.content-container {
   }
 }
 
+body.page-learn-more-now div.content-container {
+  max-width: 100%;
+  padding: 0;
+  #main {
+  padding: 0;
+  }
+}
+
 body.queenslaw-sub-site #header {
   background-color: $blue;
   .menu-item--statement {
